@@ -1,8 +1,13 @@
 <h1 align="center">Hi 👋, I'm Nicolas Ysidoro Oris</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Portafolio:</h3>
+<p align="center">
+<a href="https://nicooris98.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="https://nicooris98.github.io/" height="30" width="40" /></a>
+</p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/nicolas-ysidoro-oris/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nicolas-ysidoro-oris/" height="30" width="40" /></a>
 </p>
 
